@@ -1,0 +1,56 @@
+https://owasp.org/www-project-top-10-ci-cd-security-risks/
+https://owasp.org/www-project-api-security/
+https://owasp.org/www-project-serverless-top-10/
+https://owasp.org/www-project-kubernetes-top-ten/
+https://owasp.org/www-project-application-security-verification-standard/
+https://owasp.org/www-project-web-security-testing-guide/
+https://cheatsheetseries.owasp.org/
+https://www.redhat.com/en/topics/virtualization/what-is-virtualization
+https://www.docker.com/resources/what-container/
+https://iximiuz.com/en/posts/container-learning-path/
+https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html 
+https://szkoleniedlaqa.pl/konsola/ (szkolenie z dev tools)
+https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
+https://trufflesecurity.com/
+https://careers.tidio.com/blog-post/your-darkest-secrets-in-a-git-repository
+https://www.youtube.com/watch?v=hR4pgiEZjKA (sekrety)
+https://github.com/assetnote/kiterunner
+https://github.com/swisskyrepo/PayloadsAllTheThings/
+https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+https://owasp.org/www-project-samm/
+Modelowanie zagrożeń:
+https://thoughtworksinc.github.io/sensible-security-conversations/
+https://martinfowler.com/articles/agile-threat-modelling.html
+https://www.threatmodelingmanifesto.org/
+Nagłówki bezpieczenstwa:
+https://guides.rubyonrails.org/security.html#http-security-headers
+https://github.com/Santandersecurityresearch/DrHeader
+https://securityheaders.com/
+https://web.dev/security-headers/
+https://infosec.mozilla.org/guidelines/web_security.html 
+CSP:
+https://www.youtube.com/watch?v=_L06HetskC4
+https://github.com/google/csp-evaluator
+https://github.com/OWASP/wstg/blob/master/document/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy.md
+https://retirejs.github.io/retire.js/ 
+https://docs.npmjs.com/cli/v9/commands/npm-audit 
+Skan obrazu kontenerowego : https://github.com/aquasecurity/trivy  (Trivy)
+Narzędzia audytowe:
+https://jeremylong.github.io/DependencyCheck/
+https://blog.trailofbits.com/2021/12/16/it-depends/
+https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html
+Sonatype:
+https://www.sonatype.com/state-of-the-software-supply-chain/introduction
+Łamanie haseł - serwer, atak siłowy na ssh
+https://github.com/vanhauser-thc/thc-hydra
+https://github.com/lanjelot/patator
+SSRF:
+https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+https://www.bugbountyexplained.com/what-functionalities-are-most-often-vulnerable-to-ssrfs-case-study-of-124-bug-bounty-reports/
+https://www.youtube.com/watch?v=0GxsUS1P5xs
+https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+https://en.wikipedia.org/wiki/Private_network
+CVSS:
+https://www.first.org/cvss/
+
+https://github.com/juliocesarfort/public-pentesting-reports
